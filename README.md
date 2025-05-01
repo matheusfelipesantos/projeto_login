@@ -5,3 +5,5 @@ Exemplo de abordagem GIT GITHUB
 
 
 Configuração SSH feita com sucesso
+
+mais um commit, teste.
